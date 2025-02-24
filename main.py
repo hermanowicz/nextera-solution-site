@@ -1,6 +1,6 @@
-def main():
-    print("Hello from nextera-solution-site!")
+import streamlit as st
 
 
-if __name__ == "__main__":
-    main()
+st.write("""
+    # Hello, World!
+""")
